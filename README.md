@@ -11,5 +11,5 @@ Neste curso foi abordado:
 - Desenvolvimento de uma página Web
 
 <h1>
-    <img width="965px" src="https://giphy.com/gifs/L6MrKa14BUSxLNCmcw">
+    <img width="965px" src="https://media.giphy.com/media/L6MrKa14BUSxLNCmcw/giphy.gif">
 </h1>
