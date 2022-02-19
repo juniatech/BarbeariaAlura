@@ -1,4 +1,4 @@
-# Barbearia Alura
+# Barbearia Alura - Parte 1
 
 Finalização do curso de HTML5 e CSS3 parte 1: A primeira página da Web    
 
