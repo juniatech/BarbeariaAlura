@@ -9,3 +9,7 @@ Neste curso foi abordado:
 - Utilização do navegador para inspecionar elementos  
 - Aprendendo a definir estilos para elementos usando o CSS  
 - Desenvolvimento de uma página Web
+
+<h1>
+    <img width="965px" src="https://giphy.com/gifs/L6MrKa14BUSxLNCmcw">
+</h1>
