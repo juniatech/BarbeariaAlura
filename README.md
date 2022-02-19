@@ -1,6 +1,7 @@
 # BarbeariaAlura
 
 Finalização do curso de HTML5 e CSS3 parte 1: A primeira página da Web    
+
 Neste curso foi abordado: 
 
 - Aprendendo o que é o HTML e o CSS  
