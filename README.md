@@ -46,3 +46,19 @@ Neste curso foi abordado:
 <h3>
     <img width="965px" src="https://media.giphy.com/media/2ldOiCWMnqBPfPlrsj/giphy.gif">
 </h3>
+
+# Barbearia Alura - Parte 4
+
+Finalização do curso de HTML5 e CSS3 parte 4: Avançando no CSS
+
+Neste curso foi abordado:
+
+- Importância do conteúdo externo na sua página HTML, como fontes, vídeos e mapas;
+- O conhecimento pseudo-classes e pseudo-elementos;
+- O uso de seletores de CSS avançados;
+- Aprendendo a como lidar com opacidade e sombra;
+- Entendendo sobre o Viewport e design responsivo.
+
+<h3>
+    <img width="965px" src="https://media.giphy.com/media/AunIPxoG2pRf7wF8bb/giphy.gif">
+</h3>
