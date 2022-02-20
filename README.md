@@ -20,11 +20,11 @@ Finalização do curso de HTML5 e CSS3 parte 2: Posicionamento, listas e navega�
 
 Neste curso foi abordado:
 
-- Aprenda a estrutura da página HTML
-- Navegue entre páginas web
-- Conheça reset.css e o posicionamento pelo CSS
-- Entenda a diferença entre inline e block
-- Lide com bordas e pseudo-classes CSS
+- Aprendendo a estrutura da página HTML
+- Navegando entre páginas web
+- Conhecendo reset.css e o posicionamento pelo CSS
+- Entendendo a diferença entre inline e block
+- Lidando com bordas e pseudo-classes CSS
 
 <h2>
     <img width="965px" src="https://media.giphy.com/media/MI3tFItiflTpNgUWcy/giphy.gif">
