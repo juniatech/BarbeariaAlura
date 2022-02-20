@@ -29,3 +29,20 @@ Neste curso foi abordado:
 <h2>
     <img width="965px" src="https://media.giphy.com/media/MI3tFItiflTpNgUWcy/giphy.gif">
 </h2>
+
+# Barbearia Alura - Parte 3
+
+Finalização do curso de HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
+
+Neste curso foi abordado:
+
+- Criação de formulários complexos
+- Trabalho com campos para celulares
+- Apresentação de informações em tabelas
+- Uso de estilos para formulários, campos e tabelas
+- Entendimento sobre a hierarquia no CSS
+- Trabalho com transformações e transições.
+
+<h3>
+    <img width="965px" src="https://media.giphy.com/media/2ldOiCWMnqBPfPlrsj/giphy.gif">
+</h3>
