@@ -63,13 +63,6 @@ Neste curso foi abordado:
     <img width="965px" src="https://media.giphy.com/media/AunIPxoG2pRf7wF8bb/giphy.gif">
 </h3>
 
-## 🚀 Tecnologias utilizadas
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias
-
-- HTML
-- CSS
-
 ---
 
 Desenvolvido 💜 por Júnia Camargo.
