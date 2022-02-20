@@ -13,3 +13,19 @@ Neste curso foi abordado:
 <h1>
     <img width="965px" src="https://media.giphy.com/media/L6MrKa14BUSxLNCmcw/giphy.gif">
 </h1>
+
+# Barbearia Alura - Parte 2
+
+Finalização do curso de HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
+
+Neste curso foi abordado:
+
+- Aprenda a estrutura da página HTML
+- Navegue entre páginas web
+- Conheça reset.css e o posicionamento pelo CSS
+- Entenda a diferença entre inline e block
+- Lide com bordas e pseudo-classes CSS
+
+<h2>
+    <img width="965px" src="https://media.giphy.com/media/MI3tFItiflTpNgUWcy/giphy.gif">
+</h2>
